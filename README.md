@@ -13,8 +13,6 @@ Join our Slack channel discussion at [#presentations](https://yds.slack.com/mess
 |Yutaro Yamada | Neural Network Optimization |
 |Krishnan Srinivasan | Reinforcement Learning |
 |Jungo Kasai|NLP, Neural Networks|
-|Ethan Weinberger||
-|Henry Li||
 
 
 ### Log
@@ -22,4 +20,5 @@ Status: [ not started :black_medium_square: | completed :white_check_mark: | in 
 
 | Date | Topic | Presenter | Scribe |
 |------|-------|-----------|--------|
-| 3.2  |:black_medium_square:|:black_medium_square:|:black_medium_square:|
+| 3.2  |Introduction to RL|Krishnan Srinivasan|n/a|
+| 3.30 |Introduction to TF|Yutaro Yamada|n/a|
