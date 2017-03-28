@@ -35,7 +35,7 @@
 *.xdy
 *.tdo
 
-
+*\~
 # Output
 
 *.sty
